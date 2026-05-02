@@ -49,13 +49,11 @@ All key components will be implemented **from scratch using NumPy/Pandas**. This
 * Ensemble aggregation
 * Residual computation and updates
 
-We deliberately avoid high-level libraries (e.g., `scikit-learn`, `XGBoost`, `LightGBM`) during the learning phase. These will only be used later for **sanity checks and benchmarking**.
+We deliberately avoid high-level libraries (e.g., `scikit-learn`, `XGBoost`, `LightGBM`) during the learning phase.
 
 ---
 
 ## What You Should Expect
-
-This is not a high-level overview. You will:
 
 * Work through the **exact mechanics** of each algorithm
 * See how ensemble methods emerge from simple ideas
